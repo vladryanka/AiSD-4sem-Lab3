@@ -1,0 +1,4 @@
+﻿  VladaLab3.cpp
+C:\Users\Я\Desktop\вуз\4 семестр\АиСД\3 лаба\VladaLab3\VladaLab3\Header.h(223,19): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\Я\Desktop\вуз\4 семестр\АиСД\3 лаба\VladaLab3\VladaLab3\Header.h(246): warning C4715: List::find: значение возвращается не при всех путях выполнения
+  VladaLab3.vcxproj -> C:\Users\Я\Desktop\вуз\4 семестр\АиСД\3 лаба\VladaLab3\Debug\VladaLab3.exe
